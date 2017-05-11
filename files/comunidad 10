@@ -1,0 +1,803 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "sentenci"
+  ]
+  node [
+    id 1
+    label "fortalec"
+  ]
+  node [
+    id 2
+    label "ocasion"
+  ]
+  node [
+    id 3
+    label "caeran"
+  ]
+  node [
+    id 4
+    label "procur"
+  ]
+  node [
+    id 5
+    label "ver"
+  ]
+  node [
+    id 6
+    label "had"
+  ]
+  node [
+    id 7
+    label "escond"
+  ]
+  node [
+    id 8
+    label "enemig"
+  ]
+  node [
+    id 9
+    label "fil"
+  ]
+  node [
+    id 10
+    label "pondr"
+  ]
+  node [
+    id 11
+    label "hir"
+  ]
+  node [
+    id 12
+    label "cubiert"
+  ]
+  node [
+    id 13
+    label "alzad"
+  ]
+  node [
+    id 14
+    label "cuerp"
+  ]
+  node [
+    id 15
+    label "pies"
+  ]
+  node [
+    id 16
+    label "crist"
+  ]
+  node [
+    id 17
+    label "tiniebl"
+  ]
+  node [
+    id 18
+    label "inclin"
+  ]
+  node [
+    id 19
+    label "postr"
+  ]
+  node [
+    id 20
+    label "anunci"
+  ]
+  node [
+    id 21
+    label "tejon"
+  ]
+  node [
+    id 22
+    label "entreg"
+  ]
+  node [
+    id 23
+    label "baj"
+  ]
+  node [
+    id 24
+    label "espad"
+  ]
+  node [
+    id 25
+    label "ejercit"
+  ]
+  node [
+    id 26
+    label "extiend"
+  ]
+  node [
+    id 27
+    label "rostr"
+  ]
+  node [
+    id 28
+    label "fuert"
+  ]
+  node [
+    id 29
+    label "echaron"
+  ]
+  node [
+    id 30
+    label "muert"
+  ]
+  node [
+    id 31
+    label "resbal"
+  ]
+  node [
+    id 32
+    label "oyeron"
+  ]
+  node [
+    id 33
+    label "extend"
+  ]
+  node [
+    id 34
+    label "hambr"
+  ]
+  node [
+    id 35
+    label "escud"
+  ]
+  node [
+    id 36
+    label "met"
+  ]
+  node [
+    id 37
+    label "braz"
+  ]
+  node [
+    id 38
+    label "trabaj"
+  ]
+  node [
+    id 39
+    label "desenvain"
+  ]
+  node [
+    id 40
+    label "pestilent"
+  ]
+  node [
+    id 41
+    label "son"
+  ]
+  node [
+    id 42
+    label "pon"
+  ]
+  node [
+    id 43
+    label "sombr"
+  ]
+  node [
+    id 44
+    label "resplandec"
+  ]
+  node [
+    id 45
+    label "calz"
+  ]
+  node [
+    id 46
+    label "van"
+  ]
+  node [
+    id 47
+    label "repart"
+  ]
+  node [
+    id 48
+    label "her"
+  ]
+  node [
+    id 49
+    label "direccion"
+  ]
+  node [
+    id 50
+    label "resurreccion"
+  ]
+  node [
+    id 51
+    label "var"
+  ]
+  node [
+    id 52
+    label "toc"
+  ]
+  node [
+    id 53
+    label "poder"
+  ]
+  node [
+    id 54
+    label "suert"
+  ]
+  node [
+    id 55
+    label "cayeron"
+  ]
+  node [
+    id 56
+    label "alas"
+  ]
+  node [
+    id 57
+    label "limpiez"
+  ]
+  node [
+    id 58
+    label "ador"
+  ]
+  node [
+    id 59
+    label "quebr"
+  ]
+  node [
+    id 60
+    label "pulg"
+  ]
+  node [
+    id 61
+    label "egipci"
+  ]
+  node [
+    id 62
+    label "miembr"
+  ]
+  node [
+    id 63
+    label "sed"
+  ]
+  node [
+    id 64
+    label "resucit"
+  ]
+  node [
+    id 65
+    label "evangeli"
+  ]
+  node [
+    id 66
+    label "despoj"
+  ]
+  node [
+    id 67
+    label "piel"
+  ]
+  node [
+    id 68
+    label "general"
+  ]
+  node [
+    id 69
+    label "nabucodonosor"
+  ]
+  node [
+    id 70
+    label "estatu"
+  ]
+  node [
+    id 71
+    label "bat"
+  ]
+  node [
+    id 72
+    label "trompet"
+  ]
+  node [
+    id 73
+    label "estrad"
+  ]
+  node [
+    id 74
+    label "bocin"
+  ]
+  node [
+    id 75
+    label "hoz"
+  ]
+  node [
+    id 76
+    label "caer"
+  ]
+  node [
+    id 77
+    label "pondran"
+  ]
+  node [
+    id 78
+    label "mat"
+  ]
+  node [
+    id 79
+    label "calde"
+  ]
+  node [
+    id 80
+    label "devor"
+  ]
+  node [
+    id 81
+    label "lav"
+  ]
+  node [
+    id 82
+    label "man"
+  ]
+  node [
+    id 83
+    label "padec"
+  ]
+  node [
+    id 84
+    label "predic"
+  ]
+  node [
+    id 85
+    label "escap"
+  ]
+  node [
+    id 86
+    label "lanz"
+  ]
+  edge [
+    source 0
+    target 30
+  ]
+  edge [
+    source 1
+    target 82
+  ]
+  edge [
+    source 2
+    target 76
+  ]
+  edge [
+    source 3
+    target 24
+  ]
+  edge [
+    source 4
+    target 78
+  ]
+  edge [
+    source 5
+    target 27
+  ]
+  edge [
+    source 7
+    target 27
+  ]
+  edge [
+    source 8
+    target 82
+  ]
+  edge [
+    source 8
+    target 73
+  ]
+  edge [
+    source 9
+    target 24
+  ]
+  edge [
+    source 10
+    target 27
+  ]
+  edge [
+    source 10
+    target 82
+  ]
+  edge [
+    source 67
+    target 14
+  ]
+  edge [
+    source 67
+    target 21
+  ]
+  edge [
+    source 12
+    target 67
+  ]
+  edge [
+    source 13
+    target 82
+  ]
+  edge [
+    source 14
+    target 30
+  ]
+  edge [
+    source 14
+    target 16
+  ]
+  edge [
+    source 14
+    target 25
+  ]
+  edge [
+    source 15
+    target 31
+  ]
+  edge [
+    source 16
+    target 64
+  ]
+  edge [
+    source 16
+    target 83
+  ]
+  edge [
+    source 17
+    target 43
+  ]
+  edge [
+    source 18
+    target 58
+  ]
+  edge [
+    source 18
+    target 27
+  ]
+  edge [
+    source 19
+    target 58
+  ]
+  edge [
+    source 19
+    target 27
+  ]
+  edge [
+    source 19
+    target 15
+  ]
+  edge [
+    source 20
+    target 30
+  ]
+  edge [
+    source 20
+    target 65
+  ]
+  edge [
+    source 23
+    target 43
+  ]
+  edge [
+    source 23
+    target 49
+  ]
+  edge [
+    source 23
+    target 82
+  ]
+  edge [
+    source 24
+    target 82
+  ]
+  edge [
+    source 24
+    target 80
+  ]
+  edge [
+    source 24
+    target 86
+  ]
+  edge [
+    source 24
+    target 24
+  ]
+  edge [
+    source 24
+    target 34
+  ]
+  edge [
+    source 25
+    target 79
+  ]
+  edge [
+    source 26
+    target 82
+  ]
+  edge [
+    source 77
+    target 82
+  ]
+  edge [
+    source 28
+    target 37
+  ]
+  edge [
+    source 29
+    target 54
+  ]
+  edge [
+    source 29
+    target 82
+  ]
+  edge [
+    source 30
+    target 30
+  ]
+  edge [
+    source 30
+    target 6
+  ]
+  edge [
+    source 30
+    target 64
+  ]
+  edge [
+    source 30
+    target 24
+  ]
+  edge [
+    source 32
+    target 18
+  ]
+  edge [
+    source 33
+    target 67
+  ]
+  edge [
+    source 33
+    target 56
+  ]
+  edge [
+    source 33
+    target 82
+  ]
+  edge [
+    source 34
+    target 63
+  ]
+  edge [
+    source 34
+    target 40
+  ]
+  edge [
+    source 35
+    target 86
+  ]
+  edge [
+    source 36
+    target 51
+  ]
+  edge [
+    source 36
+    target 75
+  ]
+  edge [
+    source 36
+    target 82
+  ]
+  edge [
+    source 37
+    target 33
+  ]
+  edge [
+    source 38
+    target 46
+  ]
+  edge [
+    source 38
+    target 82
+  ]
+  edge [
+    source 39
+    target 24
+  ]
+  edge [
+    source 41
+    target 74
+  ]
+  edge [
+    source 41
+    target 72
+  ]
+  edge [
+    source 42
+    target 27
+  ]
+  edge [
+    source 42
+    target 82
+  ]
+  edge [
+    source 43
+    target 30
+  ]
+  edge [
+    source 44
+    target 27
+  ]
+  edge [
+    source 45
+    target 15
+  ]
+  edge [
+    source 47
+    target 66
+  ]
+  edge [
+    source 47
+    target 54
+  ]
+  edge [
+    source 48
+    target 30
+  ]
+  edge [
+    source 50
+    target 30
+  ]
+  edge [
+    source 52
+    target 74
+  ]
+  edge [
+    source 52
+    target 72
+  ]
+  edge [
+    source 53
+    target 37
+  ]
+  edge [
+    source 55
+    target 30
+  ]
+  edge [
+    source 76
+    target 24
+  ]
+  edge [
+    source 57
+    target 82
+  ]
+  edge [
+    source 58
+    target 70
+  ]
+  edge [
+    source 59
+    target 70
+  ]
+  edge [
+    source 60
+    target 82
+  ]
+  edge [
+    source 62
+    target 14
+  ]
+  edge [
+    source 64
+    target 30
+  ]
+  edge [
+    source 65
+    target 16
+  ]
+  edge [
+    source 11
+    target 78
+  ]
+  edge [
+    source 11
+    target 9
+  ]
+  edge [
+    source 68
+    target 25
+  ]
+  edge [
+    source 71
+    target 82
+  ]
+  edge [
+    source 73
+    target 15
+  ]
+  edge [
+    source 22
+    target 30
+  ]
+  edge [
+    source 22
+    target 8
+  ]
+  edge [
+    source 22
+    target 82
+  ]
+  edge [
+    source 78
+    target 24
+  ]
+  edge [
+    source 81
+    target 15
+  ]
+  edge [
+    source 81
+    target 14
+  ]
+  edge [
+    source 81
+    target 82
+  ]
+  edge [
+    source 82
+    target 78
+  ]
+  edge [
+    source 82
+    target 33
+  ]
+  edge [
+    source 82
+    target 79
+  ]
+  edge [
+    source 82
+    target 15
+  ]
+  edge [
+    source 82
+    target 53
+  ]
+  edge [
+    source 82
+    target 61
+  ]
+  edge [
+    source 82
+    target 69
+  ]
+  edge [
+    source 82
+    target 28
+  ]
+  edge [
+    source 82
+    target 51
+  ]
+  edge [
+    source 82
+    target 52
+  ]
+  edge [
+    source 82
+    target 8
+  ]
+  edge [
+    source 82
+    target 82
+  ]
+  edge [
+    source 84
+    target 65
+  ]
+  edge [
+    source 85
+    target 24
+  ]
+  edge [
+    source 85
+    target 82
+  ]
+  edge [
+    source 86
+    target 82
+  ]
+]

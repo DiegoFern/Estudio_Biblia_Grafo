@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="907.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-440.000000 -482.000000 907.000000 916.000000" height="916.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -152.482376,79.222504 L -82.852631,22.121367"
+              class="mec ofrend" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -55.819695,22.711266 L -11.810925,76.808609"
+              class="ofrend sacrifici" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -80.532898,20.219034 L -150.162643,77.320175"
+              class="ofrend mec" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -68.243149,26.608587 L -71.153389,65.360893"
+              class="ofrend paz" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.199074,-8.390797 L -85.979980,-137.178482"
+              class="ofrend quem" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.852417,-6.105942 L -110.578957,-65.100754"
+              class="ofrend libacion" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.048737,-8.437975 L -59.062904,-64.253204"
+              class="ofrend ofrec" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.879059,-0.218044 L -125.391212,-27.214615"
+              class="ofrend voluntari" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -84.167511,12.581238 L -169.846848,30.079567"
+              class="ofrend elev" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -49.327831,8.901051 L 75.474266,7.774858"
+              class="ofrend expiacion" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.210102,16.979984 L 127.177795,106.883972"
+              class="ofrend pec" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -287.899475,-471.237549 L -240.834930,-386.424530"
+              class="especi aromat" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 278.277191,75.143173 L 173.363785,110.219215"
+              class="confes pec" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 171.184723,122.719810 L 215.331131,132.010452"
+              class="pec perdon" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.954681,98.812462 L 63.537769,-38.651459"
+              class="pec holocaust" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.312012,139.740402 L 176.482407,240.707062"
+              class="pec jeroboam" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.039871,136.400467 L 221.286362,223.047974"
+              class="pec comet" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -108.602287,-74.153969 L -70.099083,-75.969055"
+              class="libacion ofrec" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -9.519598,-180.851822 L 44.505886,-74.660599"
+              class="altar holocaust" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -29.068836,-194.996918 L -127.384438,-210.113602"
+              class="altar inciens" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.432251,-180.559280 L -159.667587,-208.482330"
+              class="uncion inciens" stroke-opacity="1.0" stroke="#17adb8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.189251,91.542747 L -35.154663,96.335106"
+              class="sacrifici paz" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -9.917731,79.135796 L -53.926498,25.038456"
+              class="sacrifici ofrend" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.120777,91.138596 L 124.952438,113.398918"
+              class="sacrifici pec" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.582101,-30.318287 L -49.356205,-1.692451"
+              class="continu ofrend" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.407776,162.835938 L -168.251556,91.246223"
+              class="pech mec" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 127.062744,-70.391182 L 73.752777,-60.296925"
+              class="ademas holocaust" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 234.169891,241.477493 L 300.201721,333.261566"
+              class="comet adulteri" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.979675,225.524414 L 163.733170,138.876907"
+              class="comet pec" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.713654,-330.468079 L -13.591528,-209.364349"
+              class="derrib altar" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.754330,-67.672501 L -6.999070,74.155731"
+              class="ofrec sacrifici" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.558685,-85.362190 L -21.297474,-177.364197"
+              class="ofrec altar" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.743011,-67.236099 L -64.728844,-11.420868"
+              class="ofrec ofrend" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -48.523026,-74.893669 L 33.695580,-60.111721"
+              class="ofrec holocaust" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.890594,-71.924675 L -125.177063,-38.253242"
+              class="ofrec voluntari" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -62.747334,-84.472427 L -134.881622,-198.670258"
+              class="ofrec inciens" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.148895,105.248573 C -74.148895,105.248573 71.851105,105.248573 -74.148895,105.248573"
+              class="paz" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.368855,-317.997986 L -20.213087,-208.858948"
+              class="arder altar" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 180.909821,-182.220047 L 262.456848,-262.447113"
+              class="olor grat" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -47.141151,190.603912 L -8.319107,102.879303"
+              class="ofrezc sacrifici" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 273.975830,138.938812 L 174.315704,122.302139"
+              class="iniqu pec" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -150.284470,-224.404602 L -223.330200,-355.004150"
+              class="inciens aromat" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 51.817669,-310.000488 L -7.397737,-207.281967"
+              class="dedic altar" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.288994,-151.039612 L -29.624283,-184.025635"
+              class="quem altar" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -91.934486,-152.599335 L -132.917725,-200.124832"
+              class="quem inciens" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.362976,-105.051758 L -304.432465,-59.439556"
+              class="hin aceit" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 47.512627,-40.296021 L 3.455126,74.375458"
+              class="holocaust sacrifici" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.866226,-71.986740 L -8.159260,-178.177979"
+              class="holocaust altar" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.481476,-48.215900 L -48.826469,-0.774652"
+              class="holocaust ofrend" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.875542,-49.444130 L 13.986467,-38.808426"
+              class="holocaust continu" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.090828,-68.718567 L 167.630096,-169.117142"
+              class="holocaust olor" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 61.811256,-41.129475 L 81.867874,-2.909353"
+              class="holocaust expiacion" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.877931,421.521332 L 0.284781,297.312836"
+              class="riñon grosur" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.198829,278.410767 L -1.924154,104.198051"
+              class="grosur sacrifici" stroke-opacity="1.0" stroke="#e271b5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.478975,293.576416 L -53.186802,400.290802"
+              class="grosur hig" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 91.802986,15.462704 L 137.279480,96.311295"
+              class="expiacion pec" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.356247,7.338575 L 173.500412,4.503315"
+              class="expiacion culp" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 83.261894,-0.252904 L 63.205273,-38.473026"
+              class="expiacion holocaust" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 91.938309,-0.050867 L 128.863617,-63.097290"
+              class="expiacion ademas" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 341.728394,166.512390 L 450.945648,196.747055"
+              class="llev cautiveri" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.493958,162.406281 L 293.145905,145.243668"
+              class="llev iniqu" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.126099,163.452072 L 173.904648,124.273575"
+              class="llev pec" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 237.492798,135.649948 L 270.920898,139.151184"
+              class="perdon iniqu" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.266815,132.628281 L 174.120407,123.337631"
+              class="perdon pec" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -301.591797,-52.646660 L -408.506256,-6.301203"
+              class="aceit hojaldr" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -287.864410,-53.559849 L -86.742828,3.443053"
+              class="aceit ofrend" stroke-opacity="1.0" stroke="#7a8bad"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -302.171173,-54.970791 L -424.117432,-45.246212"
+              class="aceit alumbr" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.661438,-62.750427 L -275.440613,-169.437347"
+              class="aceit uncion" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.380180,256.109802 L 10.233456,282.785339"
+              class="quit grosur" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.353874,248.608688 L 139.948242,141.332825"
+              class="quit pec" stroke-opacity="1.0" stroke="#af914a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 258.476715,194.810471 L 170.087875,132.607330"
+              class="rebelion pec" stroke-opacity="1.0" stroke="#5fc613"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#c686e9" fill-opacity="1.0" class="mec ofrend"
+                  points="-80.532898,20.219032 -81.901466,23.281229 -83.803795,20.961504"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend sacrifici"
+                  points="-9.917731,79.135803 -12.974521,77.755203 -10.647330,75.862015"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend mec"
+                  points="-152.482376,79.222504 -151.113815,76.160309 -149.211472,78.480042"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend paz"
+                  points="-71.378052,68.352463 -72.649178,65.248566 -69.657600,65.473221"
+                  stroke="none"/>
+        <polyline fill="#63a8f4" fill-opacity="1.0" class="ofrend quem"
+                  points="-86.367599,-140.153336 -84.492554,-137.372299 -87.467407,-136.984665"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend libacion"
+                  points="-112.100792,-67.686096 -109.286285,-65.861671 -111.871628,-64.339836"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend ofrec"
+                  points="-58.743008,-67.236099 -57.571457,-64.093254 -60.554352,-64.413155"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend voluntari"
+                  points="-127.940422,-28.796242 -124.600403,-28.489220 -126.182022,-25.940010"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrend elev"
+                  points="-172.786179,30.679867 -170.147003,28.609903 -169.546692,31.549231"
+                  stroke="none"/>
+        <polyline fill="#d8867f" fill-opacity="1.0" class="ofrend expiacion"
+                  points="78.474144,7.747787 75.487801,9.274796 75.460732,6.274919"
+                  stroke="none"/>
+        <polyline fill="#92a67e" fill-opacity="1.0" class="ofrend pec"
+                  points="129.856796,108.234131 126.502716,108.223473 127.852875,105.544472"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="especi aromat"
+                  points="-239.379272,-383.801361 -242.146515,-385.696716 -239.523346,-387.152344"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="confes pec"
+                  points="170.518585,111.170464 172.888168,108.796616 173.839401,111.641815"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="pec perdon"
+                  points="218.266815,132.628265 215.022217,133.478302 215.640045,130.542603"
+                  stroke="none"/>
+        <polyline fill="#a4a614" fill-opacity="1.0" class="pec holocaust"
+                  points="62.094780,-41.281624 64.852852,-39.372955 62.222687,-37.929962"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="pec jeroboam"
+                  points="177.125824,243.637253 175.017319,241.028763 177.947495,240.385361"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="pec comet"
+                  points="222.979675,225.524414 220.048141,223.894623 222.524582,222.201324"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="libacion ofrec"
+                  points="-67.102409,-76.110321 -70.028450,-74.470718 -70.169716,-77.467392"
+                  stroke="none"/>
+        <polyline fill="#75a88a" fill-opacity="1.0" class="altar holocaust"
+                  points="45.866226,-71.986740 43.168961,-73.980431 45.842812,-75.340767"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="altar inciens"
+                  points="-130.349594,-210.569504 -127.156479,-211.596176 -127.612396,-208.631027"
+                  stroke="none"/>
+        <polyline fill="#17adb8" fill-opacity="1.0" class="uncion inciens"
+                  points="-156.763489,-209.234818 -159.291351,-207.030289 -160.043823,-209.934372"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="sacrifici paz"
+                  points="-38.079227,97.003616 -35.488918,94.872826 -34.820408,97.797386"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="sacrifici ofrend"
+                  points="-55.819695,22.711266 -52.762905,24.091858 -55.090092,25.985054"
+                  stroke="none"/>
+        <polyline fill="#92a67e" fill-opacity="1.0" class="sacrifici pec"
+                  points="127.897614,113.969849 124.666977,114.871506 125.237900,111.926331"
+                  stroke="none"/>
+        <polyline fill="#d8867f" fill-opacity="1.0" class="continu ofrend"
+                  points="-51.915035,-0.126442 -50.139210,-2.971867 -48.573200,-0.413036"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="pech mec"
+                  points="-165.819244,89.490120 -167.373505,92.462379 -169.129608,90.030067"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="ademas holocaust"
+                  points="70.805153,-59.738792 73.473709,-61.770737 74.031845,-58.823112"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="comet adulteri"
+                  points="301.953735,335.696838 298.984100,334.137573 301.419342,332.385559"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="comet pec"
+                  points="162.039871,136.400467 164.971390,138.030258 162.494949,139.723557"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="derrib altar"
+                  points="-13.967678,-206.388016 -15.079691,-209.552429 -12.103365,-209.176270"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrec sacrifici"
+                  points="-6.041746,76.998886 -8.420648,74.634392 -5.577493,73.677071"
+                  stroke="none"/>
+        <polyline fill="#63a8f4" fill-opacity="1.0" class="ofrec altar"
+                  points="-20.277504,-180.185486 -19.886831,-176.854218 -22.708117,-177.874176"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrec ofrend"
+                  points="-65.048737,-8.437973 -66.220291,-11.580816 -63.237396,-11.260920"
+                  stroke="none"/>
+        <polyline fill="#d8867f" fill-opacity="1.0" class="ofrec holocaust"
+                  points="36.648239,-59.580868 33.430153,-58.635391 33.961006,-61.588051"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrec voluntari"
+                  points="-127.785698,-36.771683 -125.917847,-39.557560 -124.436279,-36.948925"
+                  stroke="none"/>
+        <polyline fill="#63a8f4" fill-opacity="1.0" class="ofrec inciens"
+                  points="-136.483749,-201.206635 -133.613434,-199.471329 -136.149811,-197.869186"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="arder altar"
+                  points="-19.389580,-205.974182 -21.655466,-208.447189 -18.770708,-209.270706"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="olor grat"
+                  points="264.595398,-264.551056 263.508820,-261.377838 261.404877,-263.516388"
+                  stroke="none"/>
+        <polyline fill="#c686e9" fill-opacity="1.0" class="ofrezc sacrifici"
+                  points="-7.105045,100.135941 -6.947424,103.486336 -9.690790,102.272270"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="iniqu pec"
+                  points="171.356659,121.808174 174.562683,120.822609 174.068726,123.781670"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="inciens aromat"
+                  points="-224.794632,-357.622437 -222.021057,-355.736359 -224.639343,-354.271942"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="dedic altar"
+                  points="-8.896044,-204.682922 -8.697263,-208.031128 -6.098210,-206.532806"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="quem altar"
+                  points="-27.095707,-185.640045 -28.817081,-182.761353 -30.431484,-185.289917"
+                  stroke="none"/>
+        <polyline fill="#00caff" fill-opacity="1.0" class="quem inciens"
+                  points="-134.876892,-202.396759 -131.781769,-201.104416 -134.053680,-199.145248"
+                  stroke="none"/>
+        <polyline fill="#2e9072" fill-opacity="1.0" class="hin aceit"
+                  points="-301.654266,-58.307434 -304.998535,-58.050465 -303.866394,-60.828648"
+                  stroke="none"/>
+        <polyline fill="#d8867f" fill-opacity="1.0" class="holocaust sacrifici"
+                  points="2.379187,77.175873 2.054916,73.837486 4.855337,74.913429"
+                  stroke="none"/>
+        <polyline fill="#75a88a" fill-opacity="1.0" class="holocaust altar"
+                  points="-9.519598,-180.851822 -6.822334,-178.858154 -9.496185,-177.497803"
+                  stroke="none"/>
+        <polyline fill="#d8867f" fill-opacity="1.0" class="holocaust ofrend"
+                  points="-51.462452,0.657685 -49.542637,-2.092643 -48.110302,0.543340"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="holocaust continu"
+                  points="11.245813,-37.588253 13.376381,-40.178753 14.596554,-37.438099"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="holocaust olor"
+                  points="169.763367,-171.226440 168.684753,-168.050507 166.575439,-170.183777"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="holocaust expiacion"
+                  points="83.261894,-0.252904 80.539650,-2.212346 83.196098,-3.606360"
+                  stroke="none"/>
+        <polyline fill="#ff5c81" fill-opacity="1.0" class="riñon grosur"
+                  points="0.173919,294.314911 1.783757,297.257416 -1.214194,297.368256"
+                  stroke="none"/>
+        <polyline fill="#e271b5" fill-opacity="1.0" class="grosur sacrifici"
+                  points="-1.953863,101.198204 -0.424227,104.183197 -3.424080,104.212906"
+                  stroke="none"/>
+        <polyline fill="#ff5c81" fill-opacity="1.0" class="grosur hig"
+                  points="-54.453529,403.010254 -54.546528,399.657440 -51.827076,400.924164"
+                  stroke="none"/>
+        <polyline fill="#a4a614" fill-opacity="1.0" class="expiacion pec"
+                  points="138.750244,98.926025 135.972107,97.046677 138.586853,95.575912"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="expiacion culp"
+                  points="176.498398,4.393131 173.555511,6.002303 173.445313,3.004327"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="expiacion holocaust"
+                  points="61.811256,-41.129475 64.533501,-39.170033 61.877048,-37.776020"
+                  stroke="none"/>
+        <polyline fill="#ea8615" fill-opacity="1.0" class="expiacion ademas"
+                  points="130.379761,-65.685974 130.157959,-62.339214 127.569275,-63.855366"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="llev cautiveri"
+                  points="453.836914,197.547440 450.545441,198.192688 451.345856,195.301422"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="llev iniqu"
+                  points="290.419952,143.991013 293.772247,143.880692 292.519562,146.606644"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="llev pec"
+                  points="170.994766,123.543808 174.269531,122.818634 173.539764,125.728516"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="perdon iniqu"
+                  points="273.904602,139.463684 270.764648,140.643021 271.077148,137.659348"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="perdon pec"
+                  points="171.184723,122.719810 174.429321,121.869781 173.811493,124.805481"
+                  stroke="none"/>
+        <polyline fill="#2e9072" fill-opacity="1.0" class="aceit hojaldr"
+                  points="-411.258759,-5.108037 -409.102844,-7.677462 -407.909668,-4.924944"
+                  stroke="none"/>
+        <polyline fill="#7a8bad" fill-opacity="1.0" class="aceit ofrend"
+                  points="-83.856522,4.261106 -87.151855,4.886209 -86.333801,1.999898"
+                  stroke="none"/>
+        <polyline fill="#2e9072" fill-opacity="1.0" class="aceit alumbr"
+                  points="-427.107941,-45.007736 -424.236664,-46.741467 -423.998199,-43.750957"
+                  stroke="none"/>
+        <polyline fill="#2e9072" fill-opacity="1.0" class="aceit uncion"
+                  points="-274.935547,-172.394531 -273.962036,-169.184814 -276.919189,-169.689880"
+                  stroke="none"/>
+        <polyline fill="#ff5c81" fill-opacity="1.0" class="quit grosur"
+                  points="7.398167,283.765717 9.743267,281.367706 10.723644,284.202972"
+                  stroke="none"/>
+        <polyline fill="#af914a" fill-opacity="1.0" class="quit pec"
+                  points="141.099808,138.562637 141.333328,141.908600 138.563156,140.757050"
+                  stroke="none"/>
+        <polyline fill="#5fc613" fill-opacity="1.0" class="rebelion pec"
+                  points="167.634506,130.880783 170.951141,131.380646 169.224609,133.834015"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.9196854" cx="-158.99283"
+                class="mec" cy="84.56152" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="6.4516253" cx="183.44533"
+                class="culp" cy="4.137812" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="8.177626" cx="282.535"
+                class="iniqu" cy="140.36763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="17.098156" cx="-66.92527"
+                class="ofrend" cy="9.059847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="5.5" cx="283.9676"
+                class="confes" cy="73.240685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="21.582003" cx="149.57605"
+                class="pec" cy="118.17225" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.616368" cx="-115.71076"
+                class="libacion" cy="-73.81886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="13.058618" cx="-15.667704"
+                class="altar" cy="-192.9364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="6.102818" cx="-273.82397"
+                class="uncion" cy="-178.9031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="11.924755" cx="-2.0769062"
+                class="sacrifici" cy="88.774055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="7.3278832" cx="4.094642"
+                class="continu" cy="-34.404465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.5" cx="-290.8108"
+                class="especi" cy="-476.48392" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.5" cx="-272.2724"
+                class="pech" cy="166.34813" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.31093" cx="-134.57765"
+                class="voluntari" cy="-32.914227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="6.4516253" cx="133.893"
+                class="ademas" cy="-71.684494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="9.243923" cx="228.47946"
+                class="comet" cy="233.56781" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.5" cx="2.4659545"
+                class="derrib" cy="-336.42072" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="8.86881" cx="-57.74399"
+                class="ofrec" cy="-76.55149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="36.5" cx="-74.148895"
+                class="paz" cy="105.24857" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.5" cx="-53.01587"
+                class="arder" cy="-323.76752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="7.3278832" cx="175.3297"
+                class="olor" cy="-176.73024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="9.243923" cx="179.21562"
+                class="jeroboam" cy="253.15443" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="7.4549756" cx="-0.12004995"
+                class="grosur" cy="286.36536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="5.5" cx="5.099655"
+                class="riñon" cy="427.51724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.5" cx="-49.569275"
+                class="ofrezc" cy="196.09064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="13.001165" cx="-143.69394"
+                class="inciens" cy="-212.62129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.5" cx="54.814285"
+                class="dedic" cy="-315.1986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="6.616368" cx="-87.28709"
+                class="quem" cy="-147.21005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="6.9826245" cx="-57.613007"
+                class="hig" cy="409.79312" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="5.5" cx="-421.91934"
+                class="hin" cy="-107.316" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="16.86709" cx="53.74127"
+                class="holocaust" cy="-56.50774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.616368" cx="-179.75862"
+                class="elev" cy="32.10385" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="6.102818" cx="-417.3169"
+                class="hojaldr" cy="-2.4819508" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="14.48374" cx="-232.10887"
+                class="aromat" cy="-370.69968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="8.444251" cx="87.41803"
+                class="expiacion" cy="7.667079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="5.5" cx="335.94586"
+                class="llev" cy="164.9116" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="5.934439" cx="460.03812"
+                class="cautiveri" cy="199.26413" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="9.243923" cx="227.80188"
+                class="perdon" cy="134.63493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="6.803317" cx="-294.89096"
+                class="aceit" cy="-55.55135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="8.357376" cx="270.9094"
+                class="grat" cy="-270.76285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="5.5" cx="93.05076"
+                class="quit" cy="254.14905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="7.743187" cx="306.76773"
+                class="adulteri" cy="342.38828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="6.102818" cx="-433.68985"
+                class="alumbr" cy="-44.48286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="5.5" cx="263.38345"
+                class="rebelion" cy="198.26357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="19" x="-158.99283" y="87.13599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mec">
+            mec
+        </text>
+        <text font-size="15" x="183.44533" y="7.567988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="culp">
+            culp
+        </text>
+        <text font-size="20" x="282.535" y="144.9412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="iniqu">
+            iniqu
+        </text>
+        <text font-size="41" x="-66.92527" y="16.643913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ofrend">
+            ofrend
+        </text>
+        <text font-size="13" x="283.9676" y="75.645386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="confes">
+            confes
+        </text>
+        <text font-size="52" x="149.57605" y="127.65141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pec">
+            pec
+        </text>
+        <text font-size="16" x="-115.71076" y="-70.90871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="libacion">
+            libacion
+        </text>
+        <text font-size="31" x="-15.667704" y="-187.29797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="altar">
+            altar
+        </text>
+        <text font-size="15" x="-273.82397" y="-176.17484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="uncion">
+            uncion
+        </text>
+        <text font-size="29" x="-2.0769062" y="94.1384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sacrifici">
+            sacrifici
+        </text>
+        <text font-size="18" x="4.094642" y="-31.130539" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="continu">
+            continu
+        </text>
+        <text font-size="13" x="-290.8108" y="-473.5111" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="especi">
+            especi
+        </text>
+        <text font-size="13" x="-272.2724" y="169.32095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pech">
+            pech
+        </text>
+        <text font-size="18" x="-134.57765" y="-29.6403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="voluntari">
+            voluntari
+        </text>
+        <text font-size="15" x="133.893" y="-68.95622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ademas">
+            ademas
+        </text>
+        <text font-size="22" x="228.47946" y="237.48155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="comet">
+            comet
+        </text>
+        <text font-size="13" x="2.4659545" y="-334.0562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="derrib">
+            derrib
+        </text>
+        <text font-size="21" x="-57.74399" y="-72.66697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ofrec">
+            ofrec
+        </text>
+        <text font-size="88" x="-74.148895" y="121.29024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="paz">
+            paz
+        </text>
+        <text font-size="13" x="-53.01587" y="-321.403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="arder">
+            arder
+        </text>
+        <text font-size="18" x="175.3297" y="-173.45631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="olor">
+            olor
+        </text>
+        <text font-size="22" x="179.21562" y="258.24982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jeroboam">
+            jeroboam
+        </text>
+        <text font-size="18" x="-0.12004995" y="289.69934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="grosur">
+            grosur
+        </text>
+        <text font-size="13" x="5.099655" y="429.88174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="riñon">
+            riñon
+        </text>
+        <text font-size="13" x="-49.569275" y="198.49535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ofrezc">
+            ofrezc
+        </text>
+        <text font-size="31" x="-143.69394" y="-206.98286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="inciens">
+            inciens
+        </text>
+        <text font-size="13" x="54.814285" y="-312.8341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dedic">
+            dedic
+        </text>
+        <text font-size="16" x="-87.28709" y="-144.29338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="quem">
+            quem
+        </text>
+        <text font-size="17" x="-57.613007" y="413.73047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hig">
+            hig
+        </text>
+        <text font-size="13" x="-421.91934" y="-104.989586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hin">
+            hin
+        </text>
+        <text font-size="40" x="53.74127" y="-49.23235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="holocaust">
+            holocaust
+        </text>
+        <text font-size="16" x="-179.75862" y="35.014008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="elev">
+            elev
+        </text>
+        <text font-size="15" x="-417.3169" y="0.99217033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hojaldr">
+            hojaldr
+        </text>
+        <text font-size="35" x="-232.10887" y="-364.47327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="aromat">
+            aromat
+        </text>
+        <text font-size="20" x="87.41803" y="12.240646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="expiacion">
+            expiacion
+        </text>
+        <text font-size="13" x="335.94586" y="167.27611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="llev">
+            llev
+        </text>
+        <text font-size="14" x="460.03812" y="201.81052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cautiveri">
+            cautiveri
+        </text>
+        <text font-size="22" x="227.80188" y="139.66586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="perdon">
+            perdon
+        </text>
+        <text font-size="16" x="-294.89096" y="-52.641193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="aceit">
+            aceit
+        </text>
+        <text font-size="20" x="270.9094" y="-266.21045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="grat">
+            grat
+        </text>
+        <text font-size="13" x="93.05076" y="257.12186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="quit">
+            quit
+        </text>
+        <text font-size="19" x="306.76773" y="345.8441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="adulteri">
+            adulteri
+        </text>
+        <text font-size="15" x="-433.68985" y="-41.75459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="alumbr">
+            alumbr
+        </text>
+        <text font-size="13" x="263.38345" y="200.62807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rebelion">
+            rebelion
+        </text>
+    </g>
+</svg>

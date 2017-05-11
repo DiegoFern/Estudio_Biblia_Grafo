@@ -1,0 +1,583 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "revoc"
+  ]
+  node [
+    id 1
+    label "castig"
+  ]
+  node [
+    id 2
+    label "prim"
+  ]
+  node [
+    id 3
+    label "san"
+  ]
+  node [
+    id 4
+    label "jubile"
+  ]
+  node [
+    id 5
+    label "quint"
+  ]
+  node [
+    id 6
+    label "defect"
+  ]
+  node [
+    id 7
+    label "jesucrist"
+  ]
+  node [
+    id 8
+    label "abib"
+  ]
+  node [
+    id 9
+    label "duodecim"
+  ]
+  node [
+    id 10
+    label "primer"
+  ]
+  node [
+    id 11
+    label "provoc"
+  ]
+  node [
+    id 12
+    label "bendij"
+  ]
+  node [
+    id 13
+    label "tercer"
+  ]
+  node [
+    id 14
+    label "septim"
+  ]
+  node [
+    id 15
+    label "decim"
+  ]
+  node [
+    id 16
+    label "vez"
+  ]
+  node [
+    id 17
+    label "cuart"
+  ]
+  node [
+    id 18
+    label "ira"
+  ]
+  node [
+    id 19
+    label "pabl"
+  ]
+  node [
+    id 20
+    label "segund"
+  ]
+  node [
+    id 21
+    label "sil"
+  ]
+  node [
+    id 22
+    label "almendr"
+  ]
+  node [
+    id 23
+    label "encend"
+  ]
+  node [
+    id 24
+    label "delanter"
+  ]
+  node [
+    id 25
+    label "ardor"
+  ]
+  node [
+    id 26
+    label "cel"
+  ]
+  node [
+    id 27
+    label "octav"
+  ]
+  node [
+    id 28
+    label "bernab"
+  ]
+  node [
+    id 29
+    label "efa"
+  ]
+  node [
+    id 30
+    label "compa&#195;&#177;er"
+  ]
+  node [
+    id 31
+    label "part"
+  ]
+  node [
+    id 32
+    label "batall"
+  ]
+  node [
+    id 33
+    label "seman"
+  ]
+  node [
+    id 34
+    label "mes"
+  ]
+  node [
+    id 35
+    label "furor"
+  ]
+  node [
+    id 36
+    label "a&#195;&#177;o"
+  ]
+  node [
+    id 37
+    label "toler"
+  ]
+  node [
+    id 38
+    label "post"
+  ]
+  node [
+    id 39
+    label "postrer"
+  ]
+  node [
+    id 40
+    label "siguient"
+  ]
+  node [
+    id 41
+    label "cay"
+  ]
+  node [
+    id 42
+    label "apostol"
+  ]
+  node [
+    id 43
+    label "salvador"
+  ]
+  node [
+    id 44
+    label "epistol"
+  ]
+  node [
+    id 45
+    label "--"
+  ]
+  node [
+    id 46
+    label "flor"
+  ]
+  node [
+    id 47
+    label "adar"
+  ]
+  node [
+    id 48
+    label "terc"
+  ]
+  node [
+    id 49
+    label "dia"
+  ]
+  node [
+    id 50
+    label "enferm"
+  ]
+  node [
+    id 51
+    label "saqu"
+  ]
+  node [
+    id 52
+    label "incensari"
+  ]
+  node [
+    id 53
+    label "llen"
+  ]
+  node [
+    id 54
+    label "cad"
+  ]
+  edge [
+    source 0
+    target 1
+  ]
+  edge [
+    source 2
+    target 36
+  ]
+  edge [
+    source 2
+    target 49
+  ]
+  edge [
+    source 3
+    target 19
+  ]
+  edge [
+    source 3
+    target 50
+  ]
+  edge [
+    source 5
+    target 36
+  ]
+  edge [
+    source 5
+    target 31
+  ]
+  edge [
+    source 9
+    target 34
+  ]
+  edge [
+    source 10
+    target 39
+  ]
+  edge [
+    source 10
+    target 16
+  ]
+  edge [
+    source 10
+    target 34
+  ]
+  edge [
+    source 11
+    target 18
+  ]
+  edge [
+    source 11
+    target 26
+  ]
+  edge [
+    source 12
+    target 31
+  ]
+  edge [
+    source 13
+    target 31
+  ]
+  edge [
+    source 13
+    target 16
+  ]
+  edge [
+    source 14
+    target 36
+  ]
+  edge [
+    source 14
+    target 49
+  ]
+  edge [
+    source 15
+    target 46
+  ]
+  edge [
+    source 15
+    target 29
+  ]
+  edge [
+    source 15
+    target 31
+  ]
+  edge [
+    source 15
+    target 54
+  ]
+  edge [
+    source 17
+    target 0
+  ]
+  edge [
+    source 17
+    target 36
+  ]
+  edge [
+    source 17
+    target 31
+  ]
+  edge [
+    source 18
+    target 35
+  ]
+  edge [
+    source 19
+    target 28
+  ]
+  edge [
+    source 19
+    target 42
+  ]
+  edge [
+    source 19
+    target 21
+  ]
+  edge [
+    source 20
+    target 36
+  ]
+  edge [
+    source 20
+    target 16
+  ]
+  edge [
+    source 20
+    target 49
+  ]
+  edge [
+    source 35
+    target 18
+  ]
+  edge [
+    source 23
+    target 35
+  ]
+  edge [
+    source 23
+    target 18
+  ]
+  edge [
+    source 25
+    target 18
+  ]
+  edge [
+    source 27
+    target 49
+  ]
+  edge [
+    source 31
+    target 29
+  ]
+  edge [
+    source 31
+    target 41
+  ]
+  edge [
+    source 31
+    target 24
+  ]
+  edge [
+    source 34
+    target 14
+  ]
+  edge [
+    source 34
+    target 47
+  ]
+  edge [
+    source 34
+    target 15
+  ]
+  edge [
+    source 34
+    target 5
+  ]
+  edge [
+    source 34
+    target 8
+  ]
+  edge [
+    source 34
+    target 36
+  ]
+  edge [
+    source 34
+    target 9
+  ]
+  edge [
+    source 34
+    target 10
+  ]
+  edge [
+    source 34
+    target 20
+  ]
+  edge [
+    source 29
+    target 46
+  ]
+  edge [
+    source 29
+    target 54
+  ]
+  edge [
+    source 36
+    target 13
+  ]
+  edge [
+    source 36
+    target 4
+  ]
+  edge [
+    source 36
+    target 14
+  ]
+  edge [
+    source 36
+    target 6
+  ]
+  edge [
+    source 36
+    target 10
+  ]
+  edge [
+    source 36
+    target 20
+  ]
+  edge [
+    source 37
+    target 1
+  ]
+  edge [
+    source 39
+    target 10
+  ]
+  edge [
+    source 40
+    target 49
+  ]
+  edge [
+    source 42
+    target 7
+  ]
+  edge [
+    source 42
+    target 3
+  ]
+  edge [
+    source 43
+    target 7
+  ]
+  edge [
+    source 44
+    target 42
+  ]
+  edge [
+    source 45
+    target 45
+  ]
+  edge [
+    source 45
+    target 20
+  ]
+  edge [
+    source 45
+    target 44
+  ]
+  edge [
+    source 46
+    target 22
+  ]
+  edge [
+    source 48
+    target 36
+  ]
+  edge [
+    source 48
+    target 49
+  ]
+  edge [
+    source 49
+    target 39
+  ]
+  edge [
+    source 49
+    target 1
+  ]
+  edge [
+    source 49
+    target 14
+  ]
+  edge [
+    source 49
+    target 49
+  ]
+  edge [
+    source 49
+    target 40
+  ]
+  edge [
+    source 49
+    target 32
+  ]
+  edge [
+    source 49
+    target 33
+  ]
+  edge [
+    source 49
+    target 34
+  ]
+  edge [
+    source 49
+    target 35
+  ]
+  edge [
+    source 49
+    target 18
+  ]
+  edge [
+    source 49
+    target 51
+  ]
+  edge [
+    source 49
+    target 10
+  ]
+  edge [
+    source 54
+    target 49
+  ]
+  edge [
+    source 54
+    target 30
+  ]
+  edge [
+    source 54
+    target 34
+  ]
+  edge [
+    source 54
+    target 36
+  ]
+  edge [
+    source 54
+    target 38
+  ]
+  edge [
+    source 54
+    target 52
+  ]
+  edge [
+    source 53
+    target 46
+  ]
+  edge [
+    source 53
+    target 18
+  ]
+]

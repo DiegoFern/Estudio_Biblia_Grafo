@@ -1,0 +1,1 @@
+Esta comunidad trata claramente sobre la geneología que se cuenta en la biblia. El nodo más importante de este grafo es hij (raíz de hijo), que está conectado a muchos de los nombres que se mencionan en la biblia y al resto de nodos importantes: padre, hermano, mayor y menor.

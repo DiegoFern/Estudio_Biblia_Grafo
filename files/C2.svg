@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1602.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-798.000000 -806.000000 1602.000000 1614.000000" height="1614.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -583.125610,169.139023 L -200.295059,-26.460339"
+              class="ezequ rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.176523,7.527167 L -126.226913,-33.626007"
+              class="hiram rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.193085,-222.993896 L -127.190033,-58.619362"
+              class="joacim rey" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 26.398668,793.704956 L 37.670216,617.337402"
+              class="music principal" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 274.979492,-566.016907 L 388.839111,-430.062378"
+              class="principi rein" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 417.742554,461.737915 L 682.749939,401.901550"
+              class="sodom gomorr" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 767.227905,211.590897 L 608.686096,113.993744"
+              class="ramot gal" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.612549,-676.977966 L 250.319443,-761.972046"
+              class="entrar campament" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.079071,-668.546082 L 400.021027,-433.113647"
+              class="entrar rein" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -458.418610,-378.218048 L -191.110931,-74.678719"
+              class="cronic rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.537437,-582.390625 L -148.817001,-81.381882"
+              class="artajerj rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -224.514557,-365.724335 L -172.003983,-83.982506"
+              class="tiglat-piles rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.355591,-29.863857 L -204.579498,-41.896561"
+              class="ben-ad rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.910156,592.859680 L -378.836121,707.363586"
+              class="tir sidon" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 243.300034,556.708557 L 563.829163,563.048279"
+              class="judi grieg" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 241.261185,562.615051 L 398.962311,681.258362"
+              class="judi gentil" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 388.697174,-413.390656 L -131.387939,-66.840004"
+              class="rein rey" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 393.720947,-409.318085 L 323.889160,-234.171265"
+              class="rein joacim" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 403.973267,-410.500763 L 615.202209,-107.690399"
+              class="rein ester" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 407.238922,-414.104034 L 773.595825,-208.763687"
+              class="rein joram" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.041748,-417.506165 L 195.773056,-383.273041"
+              class="rein ocoz" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 405.432068,-411.721069 L 528.705383,-288.139160"
+              class="rein vasti" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 386.890442,-418.782654 L 1.621528,-396.076447"
+              class="rein og" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.289612,-422.409241 L -115.777290,-566.044495"
+              class="rein asa" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 397.749695,-419.422668 C 397.749695,-419.422668 439.262085,-419.422668 397.749695,-419.422668"
+              class="rein" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.679993,756.803833 L 232.456833,569.648499"
+              class="sinagog judi" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -329.423309,-205.475327 L -193.298889,-72.600227"
+              class="¡viv rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -167.542953,785.207581 L 16.039091,799.847900"
+              class="instrument music" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -724.813843,-304.841003 L -200.952515,-61.510330"
+              class="libr rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -724.482117,-309.002197 L -471.813293,-380.497131"
+              class="libr cronic" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 225.257416,-28.106234 L -124.711044,-42.963097"
+              class="joas rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.606307,-389.518646 L -148.358963,-81.180679"
+              class="og rey" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 696.136230,-395.237610 L 582.395935,-529.357544"
+              class="sus capital" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -25.969687,218.647690 L -146.032288,-9.269711"
+              class="yern rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -582.186646,-24.022650 L -204.626282,-42.684917"
+              class="sedequ rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -546.318481,-208.004730 L -201.448395,-60.398804"
+              class="baas rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.154938,134.173584 L -171.395630,-5.228268"
+              class="ungid rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.634872,-561.300598 L -161.737808,-84.551659"
+              class="asa rey" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -781.730835,-117.485596 L -762.210022,253.505493"
+              class="aman banquet" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -502.027344,-614.983948 L -185.039551,-79.087646"
+              class="amas rey" stroke-opacity="1.0" stroke="#cfa4df"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 570.161499,-533.119568 L 409.335419,-427.062866"
+              class="capital rein" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 606.487732,104.787041 L 782.973633,17.673988"
+              class="gal basan" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -389.583191,158.446671 L -194.361557,-17.850853"
+              class="cir rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -98.580574,-209.808975 L -149.812683,-81.796021"
+              class="trajeron rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.059166,-773.211731 L 35.972504,-794.286621"
+              class="siri damasc" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 161.060120,160.838287 L -130.844727,-23.316973"
+              class="sehon rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -135.454315,-21.962763 L 287.544464,306.596893"
+              class="rey asiri" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -201.113144,-38.235840 L -780.751343,63.950783"
+              class="rey agrip" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.180664,-81.629456 L -135.770706,-759.730530"
+              class="rey siri" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -197.623566,-27.825287 L -580.454102,167.774078"
+              class="rey ezequ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -164.943268,-7.660622 L -169.218719,582.121033"
+              class="rey hebron" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.941055,-13.361567 L 106.064621,384.733215"
+              class="rey sob" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -158.445511,-8.187840 L -87.345398,408.078430"
+              class="rey dari" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -201.629929,-42.833023 L -579.190308,-24.170753"
+              class="rey sedequ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -127.689270,-45.685200 L 423.027618,-60.955620"
+              class="rey acaz" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -164.675049,-44.659649 C -164.675049,-44.659649 -18.675049,-44.659649 -164.675049,-44.659649"
+              class="rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -127.739578,-42.475388 L 781.684509,11.305450"
+              class="rey basan" stroke-opacity="1.0" stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.451752,-12.778065 L -532.480896,579.849792"
+              class="rey tir" stroke-opacity="1.0" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.879105,-15.840006 L -479.737854,346.651123"
+              class="rey madian" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.005798,-8.855499 L -260.068634,321.386597"
+              class="rey asuer" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -201.368683,-49.411232 L -772.052673,-123.311043"
+              class="rey aman" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -150.006363,-78.627716 L 66.348083,-579.636475"
+              class="rey artajerj" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.459717,-33.307121 L 377.803955,130.221771"
+              class="rey roboam" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -136.936172,-20.173838 L 403.180878,456.601318"
+              class="rey sodom" stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.256439,-13.803848 L 225.881592,545.534119"
+              class="rey judi" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -191.332611,-19.000837 L -657.090149,429.306763"
+              class="rey hesbon" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -161.958099,-81.559761 L -126.855164,-558.308716"
+              class="rey asa" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.460648,-9.586872 L -346.975555,497.848450"
+              class="rey persi" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -133.884460,-65.176476 L 386.200653,-411.727142"
+              class="rey rein" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -192.135071,-19.861511 L -387.356689,156.436005"
+              class="rey cir" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -325.621307,-531.499451 L -177.230484,-82.638077"
+              class="hazael rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 44.226589,611.670471 L 213.578430,757.759460"
+              class="principal sinagog" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 531.727783,289.915222 L 595.602966,118.491943"
+              class="jab gal" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.002808,-481.530823 L -512.415588,-613.751221"
+              class="harin amas" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 233.434479,-766.448730 L -122.982948,-771.827698"
+              class="campament siri" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -316.763733,-738.526611 L 230.446579,-765.817627"
+              class="bander campament" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 98.298820,-185.856644 L -129.433609,-63.581623"
+              class="senaquerib rey" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 181.619492,-377.040894 L -135.817001,-72.358253"
+              class="ocoz rey" stroke-opacity="1.0" stroke="#a9a47f"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#df89ff" fill-opacity="1.0" class="ezequ rey"
+                  points="-197.623566,-27.825287 -199.612579,-25.124588 -200.977539,-27.796089"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="hiram rey"
+                  points="-129.110535,-34.453529 -125.813148,-35.067810 -126.640678,-32.184204"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="joacim rey"
+                  points="-130.001404,-57.572384 -127.713524,-60.025051 -126.666542,-57.213673"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="music principal"
+                  points="37.861553,614.343567 39.167160,617.433044 36.173271,617.241760"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="principi rein"
+                  points="390.765289,-427.762421 387.689117,-429.099274 389.989105,-431.025482"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0" class="sodom gomorr"
+                  points="685.676270,401.240814 683.080322,403.364716 682.419556,400.438385"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="ramot gal"
+                  points="606.131348,112.421066 609.472412,112.716377 607.899780,115.271111"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="entrar campament"
+                  points="247.595200,-763.228455 250.947632,-763.334167 249.691254,-760.609924"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0" class="entrar rein"
+                  points="399.530029,-430.154083 398.541260,-433.359131 401.500793,-432.868164"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="cronic rey"
+                  points="-189.128235,-72.427292 -192.236649,-73.687370 -189.985214,-75.670067"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="artajerj rey"
+                  points="-150.006363,-78.627716 -150.194092,-81.976555 -147.439911,-80.787209"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="tiglat-piles rey"
+                  points="-171.454315,-81.033295 -173.478592,-83.707672 -170.529373,-84.257339"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="ben-ad rey"
+                  points="-201.586670,-42.103794 -204.475876,-40.400143 -204.683121,-43.392979"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0" class="tir sidon"
+                  points="-376.433868,709.160522 -379.734619,708.564697 -377.937622,706.162476"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="judi grieg"
+                  points="566.828552,563.107605 563.799500,564.547974 563.858826,561.548584"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="judi gentil"
+                  points="401.359619,683.061890 398.060516,682.457031 399.864105,680.059692"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="rein rey"
+                  points="-133.884460,-65.176476 -132.219696,-68.088272 -130.556183,-65.591736"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein joacim"
+                  points="322.778107,-231.384598 322.495819,-234.726791 325.282501,-233.615738"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein ester"
+                  points="616.918579,-105.229889 613.971924,-106.832222 616.432495,-108.548576"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein joram"
+                  points="776.212830,-207.296890 772.862427,-207.455200 774.329224,-210.072174"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein ocoz"
+                  points="192.819977,-382.744476 195.508789,-384.749573 196.037323,-381.796509"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein vasti"
+                  points="530.824036,-286.015167 527.643372,-287.079834 529.767395,-289.198486"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein og"
+                  points="-1.373275,-395.899963 1.533277,-397.573853 1.709779,-394.579041"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="rein asa"
+                  points="-118.662010,-566.868103 -115.365471,-567.486877 -116.189110,-564.602112"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="sinagog judi"
+                  points="232.613327,566.652588 233.954788,569.726746 230.958878,569.570251"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="¡viv rey"
+                  points="-191.152100,-70.504684 -194.346664,-71.526833 -192.251114,-73.673622"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="instrument music"
+                  points="19.029596,800.086426 15.919847,801.343140 16.158335,798.352661"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="libr rey"
+                  points="-198.231705,-60.246529 -201.584412,-60.149925 -200.320618,-62.870735"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="libr cronic"
+                  points="-468.926605,-381.313934 -471.404877,-379.053802 -472.221710,-381.940460"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="joas rey"
+                  points="-127.708344,-43.090340 -124.647423,-44.461746 -124.774666,-41.464447"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="og rey"
+                  points="-149.582672,-78.441605 -149.728500,-81.792534 -146.989426,-80.568825"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="sus capital"
+                  points="580.455627,-531.645569 583.539917,-530.327698 581.251953,-528.387390"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="yern rey"
+                  points="-147.430496,-11.923954 -144.705170,-9.968814 -147.359406,-8.570607"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="sedequ rey"
+                  points="-201.629929,-42.833023 -204.552231,-41.186745 -204.700333,-44.183090"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="baas rey"
+                  points="-198.690399,-59.218369 -202.038620,-59.019802 -200.858170,-61.777805"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="ungid rey"
+                  points="-170.891586,-8.185619 -169.916946,-4.976246 -172.874313,-5.480289"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="asa rey"
+                  points="-161.958099,-81.559753 -163.233765,-84.661804 -160.241852,-84.441513"
+                  stroke="none"/>
+        <polyline fill="#d3b3b0" fill-opacity="1.0" class="aman banquet"
+                  points="-762.052368,256.501343 -763.707947,253.584305 -760.712097,253.426682"
+                  stroke="none"/>
+        <polyline fill="#cfa4df" fill-opacity="1.0" class="amas rey"
+                  points="-183.512207,-76.505554 -186.330597,-78.323975 -183.748505,-79.851318"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0" class="capital rein"
+                  points="406.830963,-425.411316 408.509644,-428.315094 410.161194,-425.810638"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="gal basan"
+                  points="785.663757,16.346144 783.637573,19.019056 782.309692,16.328920"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="cir rey"
+                  points="-192.135071,-19.861513 -193.356232,-16.737610 -195.366882,-18.964096"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="trajeron rey"
+                  points="-150.927368,-79.010788 -151.205292,-82.353355 -148.420074,-81.238686"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="siri damasc"
+                  points="38.947445,-794.673584 36.165974,-792.799133 35.779034,-795.774109"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="sehon rey"
+                  points="-133.382004,-24.917673 -130.044373,-24.585609 -131.645081,-22.048336"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey asiri"
+                  points="289.913727,308.437195 286.624329,307.781525 288.464600,305.412262"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey agrip"
+                  points="-783.705750,64.471634 -781.011780,62.473564 -780.490906,65.428001"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0" class="rey siri"
+                  points="-135.649536,-762.728088 -134.271927,-759.669922 -137.269485,-759.791138"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey ezequ"
+                  points="-583.125610,169.139023 -581.136597,166.438324 -579.771606,169.109833"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey hebron"
+                  points="-169.240463,585.120911 -170.718674,582.110168 -167.718765,582.131897"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey sob"
+                  points="107.664673,387.270905 104.795776,385.533234 107.333466,383.933197"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey dari"
+                  points="-86.840302,411.035614 -88.823982,408.330994 -85.866814,407.825867"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey sedequ"
+                  points="-582.186646,-24.022650 -579.264343,-25.668924 -579.116272,-22.672583"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey acaz"
+                  points="426.026459,-61.038773 423.069183,-59.456196 422.986053,-62.455044"
+                  stroke="none"/>
+        <polyline fill="#ef8882" fill-opacity="1.0" class="rey basan"
+                  points="784.679260,11.482553 781.595947,12.802835 781.773071,9.808066"
+                  stroke="none"/>
+        <polyline fill="#6fa3c9" fill-opacity="1.0" class="rey tir"
+                  points="-534.003296,582.434814 -533.773376,579.088562 -531.188416,580.611023"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey madian"
+                  points="-481.619263,348.987854 -480.906219,345.710419 -478.569489,347.591827"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey asuer"
+                  points="-260.825165,324.289612 -261.520142,321.008331 -258.617126,321.764862"
+                  stroke="none"/>
+        <polyline fill="#d99ed7" fill-opacity="1.0" class="rey aman"
+                  points="-775.027832,-123.696304 -771.860046,-124.798622 -772.245300,-121.823463"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey artajerj"
+                  points="67.537437,-582.390625 67.725166,-579.041809 64.971001,-580.231140"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey roboam"
+                  points="380.659241,131.142242 377.343719,131.649414 378.264191,128.794128"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0" class="rey sodom"
+                  points="405.429962,458.586639 402.188202,457.725861 404.173553,455.476776"
+                  stroke="none"/>
+        <polyline fill="#6fa6ff" fill-opacity="1.0" class="rey judi"
+                  points="227.537155,548.035889 224.630676,546.361877 227.132507,544.706360"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey hesbon"
+                  points="-659.251587,431.387207 -658.130371,428.226044 -656.049927,430.387482"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="rey asa"
+                  points="-126.634872,-561.300598 -125.359215,-558.198547 -128.351120,-558.418884"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey persi"
+                  points="-347.931152,500.692169 -348.397430,497.370667 -345.553680,498.326233"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="rey rein"
+                  points="388.697174,-413.390656 387.032410,-410.478882 385.368896,-412.975403"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="rey cir"
+                  points="-389.583191,158.446671 -388.362030,155.322754 -386.351349,157.549255"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="hazael rey"
+                  points="-176.288818,-79.789696 -178.654678,-82.167252 -175.806290,-83.108902"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0" class="principal sinagog"
+                  points="215.850021,759.718994 212.598648,758.895264 214.558212,756.623657"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="jab gal"
+                  points="596.650452,115.680756 597.008545,119.015694 594.197388,117.968193"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0" class="harin amas"
+                  points="-510.349548,-615.926392 -511.328003,-612.718201 -513.503174,-614.784241"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="campament siri"
+                  points="-125.982605,-771.872986 -122.960312,-773.327515 -123.005585,-770.327881"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="bander campament"
+                  points="233.442856,-765.967041 230.521301,-764.319519 230.371857,-767.315735"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0" class="senaquerib rey"
+                  points="-132.076721,-62.162476 -130.143188,-64.903175 -128.724030,-62.260071"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0" class="ocoz rey"
+                  points="-137.981354,-70.280861 -136.855698,-73.440430 -134.778305,-71.276077"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-589.4812"
+                class="ezequ" cy="172.38629" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="320.34634"
+                class="joacim" cy="-225.28542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="6.447926" cx="25.955534"
+                class="music" cy="800.63873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.7396193" cx="575.0666"
+                class="grieg" cy="563.27057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.5" cx="271.12714"
+                class="principi" cy="-570.6168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="295.55026"
+                class="asiri" cy="312.8153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="6.637129" cx="410.78067"
+                class="sodom" cy="463.30984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="5.5" cx="772.3374"
+                class="ramot" cy="214.73625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.5" cx="440.06104"
+                class="entrar" cy="-674.4652" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.938669" cx="222.23976"
+                class="sinagog" cy="765.231" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.973963" cx="-462.69724"
+                class="cronic" cy="-383.0766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-486.0952"
+                class="madian" cy="354.54703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="433.16086"
+                class="acaz" cy="-61.236595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.248402" cx="48.61442"
+                class="damasc" cy="-795.9309" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="70.36696"
+                class="artajerj" cy="-588.94293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="111.47127"
+                class="sob" cy="393.30817" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-225.61389"
+                class="tiglat-piles" cy="-371.62277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="387.45212"
+                class="roboam" cy="133.33209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-384.34125"
+                class="ben-ad" cy="-29.449394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="6.637129" cx="-537.62524"
+                class="tir" cy="588.5846" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-23.173273"
+                class="yern" cy="223.95618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-664.3937"
+                class="hesbon" cy="436.33667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.65873" cx="233.1433"
+                class="judi" cy="556.5077" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="7.4148245" cx="-370.096"
+                class="sidon" cy="713.9014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="22.943743"
+                class="hiram" cy="9.182214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.378104" cx="397.7497"
+                class="rein" cy="-419.42267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="781.94055"
+                class="joram" cy="-204.08653" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="535.4612"
+                class="vasti" cy="-281.36646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="7.4148245" cx="693.3967"
+                class="gomorr" cy="399.4976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-333.7169"
+                class="¡viv" cy="-209.66641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.5" cx="-173.52397"
+                class="instrument" cy="784.7306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-85.63865"
+                class="dari" cy="418.07086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-730.25543"
+                class="libr" cy="-307.3686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="231.25201"
+                class="joas" cy="-27.851751" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="-7.9279866"
+                class="og" cy="-395.51364" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.5" cx="700.0169"
+                class="sus" cy="-390.66156" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-350.20453"
+                class="persi" cy="507.45755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-551.8345"
+                class="baas" cy="-210.3656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-196.16302"
+                class="ungid" cy="140.08829" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.2032137" cx="-126.069214"
+                class="asa" cy="-568.98303" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-169.2922"
+                class="hebron" cy="592.2579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.195206" cx="794.35754"
+                class="basan" cy="12.0549" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-790.7345"
+                class="agrip" cy="65.710754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="6.637129" cx="-782.10583"
+                class="aman" cy="-124.61286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.447926" cx="-505.5646"
+                class="amas" cy="-620.96405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.447926" cx="575.9618"
+                class="capital" cy="-536.9446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="7.4148245" cx="-761.6365"
+                class="banquet" cy="264.40524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.7396193" cx="407.94394"
+                class="gentil" cy="688.0155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.395852" cx="599.4074"
+                class="gal" cy="108.28186" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="620.6752"
+                class="ester" cy="-99.84458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-394.8801"
+                class="cir" cy="163.23012" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-96.35122"
+                class="trajeron" cy="-215.37943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="8.792667" cx="-135.27422"
+                class="siri" cy="-772.0132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="166.13467"
+                class="sehon" cy="164.03969" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="36.5" cx="-164.67505"
+                class="rey" cy="-44.65965" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="-327.5046"
+                class="hazael" cy="-537.1962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.2530017" cx="38.356033"
+                class="principal" cy="606.6063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="5.5" cx="529.6328"
+                class="jab" cy="295.5376" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.5" cx="-642.13495"
+                class="harin" cy="-477.18045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-589.31506"
+                class="sedequ" cy="-23.670301" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="6.921889" cx="240.85553"
+                class="campament" cy="-766.33673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.637129" cx="-262.62503"
+                class="asuer" cy="331.19608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.5" cx="-322.7563"
+                class="bander" cy="-738.2277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.5" cx="103.58504"
+                class="senaquerib" cy="-188.69495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0660853" cx="186.3566"
+                class="ocoz" cy="-381.58768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="16" x="-589.4812" y="175.30296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ezequ">
+            ezequ
+        </text>
+        <text font-size="15" x="320.34634" y="-221.8113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="joacim">
+            joacim
+        </text>
+        <text font-size="15" x="25.955534" y="803.367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="music">
+            music
+        </text>
+        <text font-size="19" x="575.0666" y="567.67114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="grieg">
+            grieg
+        </text>
+        <text font-size="13" x="271.12714" y="-567.644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="principi">
+            principi
+        </text>
+        <text font-size="16" x="295.55026" y="315.72546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asiri">
+            asiri
+        </text>
+        <text font-size="16" x="410.78067" y="466.22" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sodom">
+            sodom
+        </text>
+        <text font-size="13" x="772.3374" y="217.04892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ramot">
+            ramot
+        </text>
+        <text font-size="13" x="440.06104" y="-672.1525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="entrar">
+            entrar
+        </text>
+        <text font-size="19" x="222.23976" y="769.6316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sinagog">
+            sinagog
+        </text>
+        <text font-size="14" x="-462.69724" y="-380.5302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cronic">
+            cronic
+        </text>
+        <text font-size="16" x="-486.0952" y="357.45718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="madian">
+            madian
+        </text>
+        <text font-size="16" x="433.16086" y="-59.068626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="acaz">
+            acaz
+        </text>
+        <text font-size="22" x="48.61442" y="-791.92944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="damasc">
+            damasc
+        </text>
+        <text font-size="16" x="70.36696" y="-585.2372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="artajerj">
+            artajerj
+        </text>
+        <text font-size="16" x="111.47127" y="396.21832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sob">
+            sob
+        </text>
+        <text font-size="13" x="-225.61389" y="-368.61188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tiglat-piles">
+            tiglat-piles
+        </text>
+        <text font-size="16" x="387.45212" y="136.24225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="roboam">
+            roboam
+        </text>
+        <text font-size="13" x="-384.34125" y="-27.084892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ben-ad">
+            ben-ad
+        </text>
+        <text font-size="16" x="-537.62524" y="591.4752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tir">
+            tir
+        </text>
+        <text font-size="13" x="-23.173273" y="226.36406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yern">
+            yern
+        </text>
+        <text font-size="16" x="-664.3937" y="439.24683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hesbon">
+            hesbon
+        </text>
+        <text font-size="23" x="233.1433" y="561.83466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="judi">
+            judi
+        </text>
+        <text font-size="18" x="-370.096" y="717.17535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sidon">
+            sidon
+        </text>
+        <text font-size="13" x="22.943743" y="11.546716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hiram">
+            hiram
+        </text>
+        <text font-size="25" x="397.7497" y="-414.87555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rein">
+            rein
+        </text>
+        <text font-size="15" x="781.94055" y="-200.61241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="joram">
+            joram
+        </text>
+        <text font-size="15" x="535.4612" y="-278.63818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="vasti">
+            vasti
+        </text>
+        <text font-size="18" x="693.3967" y="402.83157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gomorr">
+            gomorr
+        </text>
+        <text font-size="13" x="-333.7169" y="-206.69888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="¡viv">
+            ¡viv
+        </text>
+        <text font-size="13" x="-173.52397" y="787.0951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="instrument">
+            instrument
+        </text>
+        <text font-size="16" x="-85.63865" y="420.98102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dari">
+            dari
+        </text>
+        <text font-size="13" x="-730.25543" y="-305.0041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="libr">
+            libr
+        </text>
+        <text font-size="13" x="231.25201" y="-24.840847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="joas">
+            joas
+        </text>
+        <text font-size="15" x="-7.9279866" y="-392.73532" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="og">
+            og
+        </text>
+        <text font-size="13" x="700.0169" y="-388.9001" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sus">
+            sus
+        </text>
+        <text font-size="16" x="-350.20453" y="511.1164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="persi">
+            persi
+        </text>
+        <text font-size="13" x="-551.8345" y="-208.0011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="baas">
+            baas
+        </text>
+        <text font-size="13" x="-196.16302" y="143.0992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ungid">
+            ungid
+        </text>
+        <text font-size="17" x="-126.069214" y="-566.67957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asa">
+            asa
+        </text>
+        <text font-size="16" x="-169.2922" y="595.168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hebron">
+            hebron
+        </text>
+        <text font-size="22" x="794.35754" y="16.056366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="basan">
+            basan
+        </text>
+        <text font-size="16" x="-790.7345" y="69.41648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="agrip">
+            agrip
+        </text>
+        <text font-size="16" x="-782.10583" y="-122.44489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="aman">
+            aman
+        </text>
+        <text font-size="15" x="-505.5646" y="-618.9316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="amas">
+            amas
+        </text>
+        <text font-size="15" x="575.9618" y="-533.5144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="capital">
+            capital
+        </text>
+        <text font-size="18" x="-761.6365" y="268.52145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="banquet">
+            banquet
+        </text>
+        <text font-size="19" x="407.94394" y="692.4161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gentil">
+            gentil
+        </text>
+        <text font-size="18" x="599.4074" y="112.450806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gal">
+            gal
+        </text>
+        <text font-size="15" x="620.6752" y="-97.176125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ester">
+            ester
+        </text>
+        <text font-size="16" x="-394.8801" y="166.14027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cir">
+            cir
+        </text>
+        <text font-size="13" x="-96.35122" y="-212.36852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="trajeron">
+            trajeron
+        </text>
+        <text font-size="21" x="-135.27422" y="-768.1936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="siri">
+            siri
+        </text>
+        <text font-size="13" x="166.13467" y="166.40419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sehon">
+            sehon
+        </text>
+        <text font-size="88" x="-164.67505" y="-28.360168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rey">
+            rey
+        </text>
+        <text font-size="13" x="-327.5046" y="-534.8317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hazael">
+            hazael
+        </text>
+        <text font-size="17" x="38.356033" y="610.49384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="principal">
+            principal
+        </text>
+        <text font-size="13" x="529.6328" y="298.5485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jab">
+            jab
+        </text>
+        <text font-size="13" x="-642.13495" y="-474.81595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="harin">
+            harin
+        </text>
+        <text font-size="16" x="-589.31506" y="-20.011448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sedequ">
+            sedequ
+        </text>
+        <text font-size="17" x="240.85553" y="-762.51697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="campament">
+            campament
+        </text>
+        <text font-size="16" x="-262.62503" y="333.36404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asuer">
+            asuer
+        </text>
+        <text font-size="13" x="-322.7563" y="-735.8632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="bander">
+            bander
+        </text>
+        <text font-size="13" x="103.58504" y="-185.72212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="senaquerib">
+            senaquerib
+        </text>
+        <text font-size="15" x="186.3566" y="-379.5552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ocoz">
+            ocoz
+        </text>
+    </g>
+</svg>

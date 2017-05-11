@@ -1,0 +1,395 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "ciel"
+  ]
+  node [
+    id 1
+    label "abaj"
+  ]
+  node [
+    id 2
+    label "palaci"
+  ]
+  node [
+    id 3
+    label "consum"
+  ]
+  node [
+    id 4
+    label "cieg"
+  ]
+  node [
+    id 5
+    label "vio"
+  ]
+  node [
+    id 6
+    label "horn"
+  ]
+  node [
+    id 7
+    label "veran"
+  ]
+  node [
+    id 8
+    label "ave"
+  ]
+  node [
+    id 9
+    label "abiert"
+  ]
+  node [
+    id 10
+    label "estrell"
+  ]
+  node [
+    id 11
+    label "profund"
+  ]
+  node [
+    id 12
+    label "alzand"
+  ]
+  node [
+    id 13
+    label "seol"
+  ]
+  node [
+    id 14
+    label "pectoral"
+  ]
+  node [
+    id 15
+    label "fueg"
+  ]
+  node [
+    id 16
+    label "descend"
+  ]
+  node [
+    id 17
+    label "consumidor"
+  ]
+  node [
+    id 18
+    label "fij"
+  ]
+  node [
+    id 19
+    label "ojos"
+  ]
+  node [
+    id 20
+    label "nuev"
+  ]
+  node [
+    id 21
+    label "mir"
+  ]
+  node [
+    id 22
+    label "vieron"
+  ]
+  node [
+    id 23
+    label "lun"
+  ]
+  node [
+    id 24
+    label "tesor"
+  ]
+  node [
+    id 25
+    label "ardiend"
+  ]
+  node [
+    id 26
+    label "vist"
+  ]
+  node [
+    id 27
+    label "oiras"
+  ]
+  node [
+    id 28
+    label "alce"
+  ]
+  node [
+    id 29
+    label "odres"
+  ]
+  node [
+    id 30
+    label "&#194;&#191;has"
+  ]
+  node [
+    id 31
+    label "azufr"
+  ]
+  node [
+    id 32
+    label "prend"
+  ]
+  node [
+    id 33
+    label "afliccion"
+  ]
+  node [
+    id 34
+    label "alzar"
+  ]
+  node [
+    id 35
+    label "arrib"
+  ]
+  node [
+    id 36
+    label "novent"
+  ]
+  node [
+    id 37
+    label "ventan"
+  ]
+  node [
+    id 38
+    label "espaci"
+  ]
+  node [
+    id 39
+    label "agrad"
+  ]
+  node [
+    id 40
+    label "vanid"
+  ]
+  node [
+    id 41
+    label "extrem"
+  ]
+  node [
+    id 42
+    label "coj"
+  ]
+  edge [
+    source 0
+    target 35
+  ]
+  edge [
+    source 0
+    target 20
+  ]
+  edge [
+    source 0
+    target 9
+  ]
+  edge [
+    source 0
+    target 16
+  ]
+  edge [
+    source 0
+    target 0
+  ]
+  edge [
+    source 3
+    target 2
+  ]
+  edge [
+    source 3
+    target 15
+  ]
+  edge [
+    source 4
+    target 42
+  ]
+  edge [
+    source 6
+    target 15
+  ]
+  edge [
+    source 8
+    target 0
+  ]
+  edge [
+    source 9
+    target 19
+  ]
+  edge [
+    source 34
+    target 19
+  ]
+  edge [
+    source 12
+    target 19
+  ]
+  edge [
+    source 15
+    target 3
+  ]
+  edge [
+    source 15
+    target 31
+  ]
+  edge [
+    source 15
+    target 25
+  ]
+  edge [
+    source 15
+    target 17
+  ]
+  edge [
+    source 15
+    target 0
+  ]
+  edge [
+    source 16
+    target 13
+  ]
+  edge [
+    source 16
+    target 15
+  ]
+  edge [
+    source 16
+    target 0
+  ]
+  edge [
+    source 18
+    target 19
+  ]
+  edge [
+    source 19
+    target 21
+  ]
+  edge [
+    source 19
+    target 26
+  ]
+  edge [
+    source 19
+    target 0
+  ]
+  edge [
+    source 19
+    target 22
+  ]
+  edge [
+    source 19
+    target 4
+  ]
+  edge [
+    source 19
+    target 5
+  ]
+  edge [
+    source 19
+    target 7
+  ]
+  edge [
+    source 19
+    target 9
+  ]
+  edge [
+    source 20
+    target 29
+  ]
+  edge [
+    source 20
+    target 23
+  ]
+  edge [
+    source 21
+    target 33
+  ]
+  edge [
+    source 21
+    target 37
+  ]
+  edge [
+    source 21
+    target 19
+  ]
+  edge [
+    source 21
+    target 5
+  ]
+  edge [
+    source 21
+    target 0
+  ]
+  edge [
+    source 23
+    target 20
+  ]
+  edge [
+    source 23
+    target 10
+  ]
+  edge [
+    source 24
+    target 0
+  ]
+  edge [
+    source 26
+    target 19
+  ]
+  edge [
+    source 27
+    target 0
+  ]
+  edge [
+    source 28
+    target 19
+  ]
+  edge [
+    source 30
+    target 26
+  ]
+  edge [
+    source 10
+    target 0
+  ]
+  edge [
+    source 11
+    target 13
+  ]
+  edge [
+    source 35
+    target 1
+  ]
+  edge [
+    source 35
+    target 0
+  ]
+  edge [
+    source 36
+    target 20
+  ]
+  edge [
+    source 38
+    target 9
+  ]
+  edge [
+    source 39
+    target 19
+  ]
+  edge [
+    source 40
+    target 33
+  ]
+  edge [
+    source 32
+    target 15
+  ]
+  edge [
+    source 41
+    target 14
+  ]
+  edge [
+    source 41
+    target 0
+  ]
+]
